@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1640259282 source:c:\users\miruna\desktop\codeblocks\proiect-ip\main.cpp
+	<fstream>
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+
+1642015662 source:c:\users\miruna\desktop\proiect-ip\main.cpp
+	<fstream>
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+
